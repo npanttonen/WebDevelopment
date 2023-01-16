@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    }
+
+    header, footer {
+    background: purple;
+    height: 100px;
+    }
+
+    h1 {
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+    }
+
+    article {
+    padding: 10px;
+    margin: 10px;
+    background: aqua;
+
+    }
+    
+section{
+    display: flex;
+    flex-direction: column;
+}
+main{
+    display: flex;
+}
+sidebar{
+    flex: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+    
+    
