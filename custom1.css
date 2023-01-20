@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+header{
+    background-color: blue;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 70px;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
